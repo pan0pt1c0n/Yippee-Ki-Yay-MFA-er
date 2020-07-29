@@ -7,7 +7,7 @@ The Python script (bypass.py) can be used in conjunction with the Methodology de
 Session Instantiation Attacks***
 ...as a demonstration of this attack.
 
-![CyberMike](https://raw.githubusercontent.com/pan0pt1c0n/Yippee-Ki-Yay-MFA-er/master/CyberMike.png)
+![CyberMike](https://raw.githubusercontent.com/pan0pt1c0n/Yippee-Ki-Yay-MFA-er/master/CyberMike.png =250x)
 
 ## How it Works???
 ![How It Works](https://raw.githubusercontent.com/pan0pt1c0n/Yippee-Ki-Yay-MFA-er/master/HowItWorks.png)
