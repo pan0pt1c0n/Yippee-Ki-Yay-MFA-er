@@ -9,12 +9,14 @@ The Python script (bypass.py) can be used in conjunction with the Methodology de
 Session Instantiation Attacks***
 ...as a demonstration of this attack.
 
+The talk will be presented at 15:30 PDT (Las Vegas Time) on August 7, 2020.  More details available on the [DEFCON Red Team Village website](https://redteamvillage.io/day1.html).
+
 ## How it Works???
 ![How It Works](https://raw.githubusercontent.com/pan0pt1c0n/Yippee-Ki-Yay-MFA-er/master/HowItWorks.png)
 
 
 ## MITRE ATT&CK
-This technique maps to the [T1111 - Two Factor Authentication Interception](https://attack.mitre.org/techniques/T1111/) Mitre ATT&CK TTP.
+This technique maps to the [T1111 - Two Factor Authentication Interception](https://attack.mitre.org/techniques/T1111/) TTP.
 
 ## Target App
 The target app for this POC is a slightly modified (only cosmetic changes to fit with the Talk theme) of a Flask 2FA example login page published by Miguel Grinberg at [https://github.com/miguelgrinberg/two-factor-auth-flask](https://github.com/miguelgrinberg/two-factor-auth-flask).
