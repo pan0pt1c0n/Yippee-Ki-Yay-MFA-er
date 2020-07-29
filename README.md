@@ -24,4 +24,4 @@ The target app for this POC is a slightly modified (only cosmetic changes to fit
 This technique maps to the [T1111 - Two Factor Authentication Interception](https://attack.mitre.org/techniques/T1111/) TTP.
 
 ## Disclaimer
-To be clear, this is not an exploit of a vulnerability in Miguel's proof-of-concept, but rather an underlying risk inherent to all OTP-based Multi-Factor Authentication. Miguel's code just happens to make a very convenient test environment for demonstrating MFA exploits.
+To be clear, this is not an exploit of a vulnerability in Miguel's proof-of-concept, but rather an underlying risk inherent to all OTP-based Multi-Factor Authentication (works for Push-based MFA also). Miguel's code just happens to make a very convenient test environment for demonstrating MFA exploits.
